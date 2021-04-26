@@ -1,6 +1,16 @@
 # AdminApp.Changelog
 
-Available Features:
+*v.1.0.0-rc.2*
+New Features:
+* Create, Read, Update, Delete AC for Personal Customer
+* Create, Read, Update, Delete Company Category
+* Create, Read, Update, Delete Company Group
+* Create, Read, Update, Delete Company Customer
+* Create, Read, Update, Delete AC for Company Customer
+* Qr Code Generator
+
+*v.1.0.0-rc.1*
+Initial Features:
 
 * Login access as Superadmin
 * Create, Read, Update, Delete Personal Customer
