@@ -1,8 +1,14 @@
 # AdminApp.Changelog
 
 ## v.1.0.0-rc.3
+FEATURE UPDATE:
+* Product Management - CRUD Product Item Price Configuration, CRUD Service Package Configuration
 
-*v.1.0.0-rc.2*
+NEW FEATURE:
+* CRUD Operator
+* CRUD Customer by Worker using Worker App
+
+## v.1.0.0-rc.2
 New Features:
 * Create, Read, Update, Delete AC for Personal Customer
 * Create, Read, Update, Delete Company Category
@@ -11,7 +17,7 @@ New Features:
 * Create, Read, Update, Delete AC for Company Customer
 * Qr Code Generator
 
-*v.1.0.0-rc.1*
+## v.1.0.0-rc.1
 Initial Features:
 
 * Login access as Superadmin
