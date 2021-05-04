@@ -1,5 +1,7 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.3
+
 *v.1.0.0-rc.2*
 New Features:
 * Create, Read, Update, Delete AC for Personal Customer
