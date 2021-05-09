@@ -1,5 +1,9 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.4
+FEATURE UPDATE:
+* Company Management - Add PIC information (Name, Phone, Email)
+
 ## v.1.0.0-rc.3
 FEATURE UPDATE:
 * Product Management - CRUD Product Item Price Configuration, CRUD Service Package Configuration
