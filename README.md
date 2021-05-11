@@ -1,5 +1,9 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.5
+NEW FEATURE:
+* Order Management - Manual Create, Read, Update, Delete Order and publish order
+
 ## v.1.0.0-rc.4
 FEATURE UPDATE:
 * Company Management - Add PIC information (Name, Phone, Email)
