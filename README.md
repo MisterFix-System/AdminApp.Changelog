@@ -1,5 +1,19 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.6
+NEW FEATURE:
+Main Web Content Management :
+* CRUD Main web static content, 
+* CRUD Contact, 
+* CRUD Career, 
+* CRUD MisterFix Team, 
+* CRUD Business Item, 
+* CRUD Booking Option
+
+FEATURE UPDATE:
+* Fetch Main web static content data into Main Website
+* Fetch booking option data into Main Website
+
 ## v.1.0.0-rc.5
 NEW FEATURE:
 * Order Management - Manual Create, Read, Update, Delete Order and publish order
