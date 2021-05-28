@@ -1,5 +1,21 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.7
+NEW FEATURE:
+* CRUD AC Brand
+* CRUD AC Type
+* CRUD Freon Type
+* Export to Excel (Customer, Company)
+* Show AC Service History
+* Admin to Main Web data integration
+
+UPDATE FEATURE:
+* Add Logo to Company Group
+* Use dropdown data to populate AC data (Brand, Type, Freon) when creating Customer AC data
+* Add Service date field to Order feature
+* Add Icon field to Service Package
+
+
 ## v.1.0.0-rc.6
 NEW FEATURE:
 Main Web Content Management :
