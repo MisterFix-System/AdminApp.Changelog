@@ -1,5 +1,12 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.9
+UPDATE FEATURE:
+* New Qr Code Design -- https://github.com/MisterFix-System/AdminApp.Changelog/issues/2
+
+BUGFIX
+* Fix logic to show AC history
+
 ## v.1.0.0-rc.7
 NEW FEATURE:
 * CRUD AC Brand
