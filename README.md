@@ -1,5 +1,28 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.10
+FIX FEEDBACK:
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/17
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/29
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/3
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/26
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/12
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/11
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/8
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/7
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/36
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/31
+* https://github.com/MisterFix-System/AdminApp.Changelog/issues/30
+
+UPDATE FEATURE:
+* Add ID to product item, customer, company, service package, technician
+* Update sidebar label menu
+* Add description to Team feature and implement to main web
+
+NEW FEATURE:
+* Email service - send email to customer when order information is updated (publish, status changes, payment success)
+
+
 ## v.1.0.0-rc.9
 UPDATE FEATURE:
 * New Qr Code Design -- https://github.com/MisterFix-System/AdminApp.Changelog/issues/2
