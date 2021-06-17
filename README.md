@@ -1,5 +1,13 @@
 # AdminApp.Changelog
 
+## v.1.0.0-rc.11
+* Split Order Status to spesific menu
+* Add counter when order status is Waiting for Worker
+* Update Career form - add image and implement to main web
+* CRUD Work Gallery and show to main web (AC service page)
+* Update Technician Feature: Add Total Income to data table, add button action to submit transfer proof (go to detail -> click Confirm Income Transfer button)
+* Update Product Item: Add Is Enable Invoice Reduction form
+
 ## v.1.0.0-rc.10
 FIX FEEDBACK:
 * https://github.com/MisterFix-System/AdminApp.Changelog/issues/17
