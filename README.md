@@ -1,5 +1,15 @@
 # AdminApp.Changelog
 
+## v.1.0.1
+* Add new Menu - Search AC Data (search by Code / Customer Name / Company Name)
+* Update Customer Dropdown when creating new order - add phone number
+* Implement COMPANY ORDER feature with Payment Option: Full / Credit
+* Send Payment Information to Customer after the service has been set to done by Technician if the customer need to submit more payment
+* Disable Deposit Feature
+* Adjust Technician Commission calculation
+
+-------------------------------------------------------------------------------------------
+
 ## v.1.0.0-rc.11
 * Split Order Status to spesific menu
 * Add counter when order status is Waiting for Worker
