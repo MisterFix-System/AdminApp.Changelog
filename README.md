@@ -1,5 +1,11 @@
 # AdminApp.Changelog
 
+## v.1.0.2
+* CRUD Appointment Schedule
+* Fix issue https://github.com/MisterFix-System/AdminApp.Changelog/issues/53
+* Fix issue https://github.com/MisterFix-System/AdminApp.Changelog/issues/52
+* Fix issue https://github.com/MisterFix-System/AdminApp.Changelog/issues/51
+
 ## v.1.0.1
 * Add new Menu - Search AC Data (search by Code / Customer Name / Company Name)
 * Update Customer Dropdown when creating new order - add phone number
