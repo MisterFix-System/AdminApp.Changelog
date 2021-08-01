@@ -1,5 +1,12 @@
 # AdminApp.Changelog
 
+## v.1.0.3
+* CRUD Post Category
+* CRUD Posts (Tips & Tricks)
+* CRUD Testimonials
+* Adjust Menu Structure and color branding
+
+
 ## v.1.0.2
 * CRUD Appointment Schedule
 * Fix issue https://github.com/MisterFix-System/AdminApp.Changelog/issues/53
